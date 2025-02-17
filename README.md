@@ -12,6 +12,7 @@ This repository contains a deep learning-based classification model for detectin
 
 ## 📂 Dataset
 The dataset consists of 6,400 MRI images and is split into training, validation, and test sets. The images are processed using Convolutional Neural Networks (CNNs) for classification.
+The original dataset is available at https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 
 ## 🚀 Features
 - ✅ **Deep Learning Model:** Implemented using TensorFlow and Keras.
@@ -30,6 +31,7 @@ The dataset consists of 6,400 MRI images and is split into training, validation,
  ┃ ┣ Confusion_Matrix.png
  ┃ ┗ Accuracy_Plot.png
  ┣ 📜 README.md
+ ┣ 📜 LICENSE.txt
  ┗ 📜 requirements.txt
 ```
 
