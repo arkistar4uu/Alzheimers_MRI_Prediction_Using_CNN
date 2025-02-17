@@ -1,6 +1,6 @@
 # 🧠 Alzheimers_MRI_Classification_Using_CNN
 
-![Alzheimer's MRI](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alzheimer%27s_Disease_Brain_MRI.jpg/320px-Alzheimer%27s_Disease_Brain_MRI.jpg)
+![Alzheimer's MRI](mri.jpg)
 
 ## 📌 Overview
 This repository contains a deep learning-based classification model for detecting different stages of Alzheimer's disease using MRI (Magnetic Resonance Imaging) scans. The dataset includes MRI images categorized into four classes:
